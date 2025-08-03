@@ -13,7 +13,7 @@
 - 'https://github.com/nasa/openmct/'.
 - 'https://github.com/facebook/docusaurus'.
 -->
-# Exercise to get to know Git and GitHub.
+# Basics of Git and GitHub.
 
 <p align="center">
   🌐 '[na]'
@@ -30,10 +30,17 @@ Final delivery of the 3rd course: '[Git y GitHub: repositorio, commit y versione
 
 # About.
 - The course covered topics such as:
-  - Basics of web development: HTML files (e.g. as `index.html`) and tags, CSS files (e.g. `style.css`), and JavaScript files (e.g. `app.js`).
-  - Basic HTML tags: `<h1>`, `<p>`.
-  - Basics of JavaScript language:
-    - Document Object Model (DOM) connectors; e.g. functions such as `document.querySelector(...);`.
+  - Basics of GitHub: account creation, repository (a.k.a. **repo**.) creation, files creation (and commit) via web-browser GUI.
+  - Getting to know VS Code web, '<https://github.dev/>': *free* vs code editor in your web-browser, with **limited capabilities**, focused on file editing and branch management.
+    - No possibilities of build and run code ❌.
+    - No terminal access ❌.
+  - Basics og Git: installation with OS-specific distribution, token authentication for remote repo. operations (e.g. GitHub), basic commands.
+    - Repo configuration: `git init`, `git clone <remote_repo_url>`.
+    - Git project status and commits history: `git status`, `git log --oneline`.
+    - Remote repo. management: `git pull`, `git push origin <source_branch>`.
+    - Staging and committing: `git add .`, `git commit -am '<commit_message>'`.
+    - Files management: `git diff`, `git restore --source <commit_hash> <file_name>`.
+    - Branches: `git branch`, `git checkout -b <new_branch>`, `git switch <branch>`, `git merge <source_branch>`.
 
 ## 🥇 Course Certificate of Completion.
 Available at '<https://app.aluracursos.com/certificate/d08559aa-964d-4174-8c0c-3ba43654b0f5>'.
