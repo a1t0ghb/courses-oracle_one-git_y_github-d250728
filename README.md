@@ -26,10 +26,9 @@ Final delivery of the 3rd course: '[Git y GitHub: repositorio, commit y versione
 - Improved format taken from examples in 'https://github.com/nasa/openmct/blob/master/README.md?plain=1'.
 -->
 > [!NOTE]
-> This README:
-> - Is **mainly** written in english (en), but it might have some sections in spanish (sp), since course content is in spanish.
+> This README is **mainly** written in english (en), but it might have some sections in spanish (sp), since course content is in spanish.
 
-# About.
+# ℹ About.
 - The course covered topics such as:
   - Basics of GitHub: account creation, repository (a.k.a. **repo**.) creation, files creation (and commit) via web-browser GUI.
   - Getting to know VS Code web, '<https://github.dev/>': *free* vs code editor in your web-browser, with **limited capabilities**, focused on file editing and branch management.
@@ -54,7 +53,7 @@ Available at '<https://app.aluracursos.com/certificate/d08559aa-964d-4174-8c0c-3
   4. 'Ramificaciones y merge'.
   5. 'Profundizando en Git y GitHub'.
 
-## Links to program resources.
+## 🔗 Links to program resources.
 
 **PROGRAM STRUCTURE.**
 - <b>*[Course]* 'Git y GitHub: repositorio, commit y versiones'</b>: '<https://app.aluracursos.com/course/git-github-repositorio-commit-versiones>'.
@@ -65,7 +64,7 @@ Available at '<https://app.aluracursos.com/certificate/d08559aa-964d-4174-8c0c-3
 **COURSE RESOURCES.**
 - [na].
 
-# Content From Course for Following Lessons.
+# 🐾 Content From Course for Following Lessons.
 
 > [!NOTE]
 > This section is only for reference, for documentation purposes in case of re-visiting course lessons.
@@ -91,7 +90,7 @@ Sistema de Registro 2
 - 'https://contrib.rocks/'.
 - 'https://contrib.rocks/preview?repo=a1t0ghb%2Fcourses-oracle_one-git_y_github-d250728'
 -->
-# Contributors.
+# 🤝 Contributors.
 
 <a href="https://github.com/a1t0ghb/courses-oracle_one-git_y_github-d250728/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=a1t0ghb/courses-oracle_one-git_y_github-d250728" />
@@ -102,7 +101,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 <!-- Authors table structure
 - From repo: 'https://github.com/camilafernanda/GlicoCare/blob/main/README.md?plain=1'.
 -->
-# Authors.
+# 📜 Authors.
 
 | [<img src="https://avatars.githubusercontent.com/u/32377614?v=4" width=70><br><sub>a1t0ghb</sub>](https://github.com/a1t0ghb) |
 | :---: |
